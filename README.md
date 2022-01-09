@@ -13,7 +13,7 @@
 
 ## 介绍
 
-本项目基于[vue-element-admin](https://panjiachen.github.io/vue-element-admin)二次开发，后台服务通过nodejs中Express web框架搭建。
+本项目基于[vue-element-admin](https://panjiachen.github.io/vue-element-admin)二次开发，[后台](https://github.com/duanStar/book-admin-server)服务通过nodejs中Express web框架搭建。
 
 ![](https://www.youbaobao.xyz/admin-docs/assets/img/constructor.57a5bdc5.png)
 
